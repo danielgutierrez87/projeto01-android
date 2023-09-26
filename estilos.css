@@ -47,7 +47,7 @@ header {
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
-    font-size: 2.3em; 
+    font-size: 2em; 
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgb(0, 0, 0);    
 }
@@ -76,7 +76,7 @@ nav > a {
     padding: 10px;
     text-decoration: none;
     font-weight: normal;
-    font-size: 1em;
+    font-size: 14px;
 }
 
 nav > a:hover {
@@ -99,6 +99,7 @@ main {
 main h1 {
     color:var(--cor5);
     font-family: var(--fonte-android);
+    font-size: 1.3em;
 }
 
 main h2 {
